@@ -1,6 +1,6 @@
 ﻿# GarethMcC DevToolbox
 
-A desktop developer utility suite I built with **C++23, Qt 6 and CMake**.
+A desktop developer utility suite I built with **C++, Qt 6 and CMake**.
 
 The project brings together a collection of practical development and system utilities in a single Qt Widgets application. 
 It was developed as a portfolio project to demonstrate modern C++, desktop application development, file system programming, asynchronous processing and Windows system integration

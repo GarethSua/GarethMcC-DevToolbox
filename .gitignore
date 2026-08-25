@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# CMake build output
+out/
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# User-specific CMake settings
+CMakeUserPresets.json
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+
+# Qt generated files
+*_autogen/
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+
+# Windows
+Thumbs.db
+Desktop.ini
